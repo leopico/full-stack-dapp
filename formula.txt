@@ -1,0 +1,4 @@
+for verification --> npx hardhat verify --network goerli --constructor-args arguments.js contract's address 
+if you have verify with contructor argument then you have to make new arguments.js and then make assign your constructor argument then proces.
+
+This is for contract address => 0x822715F0E3aABf9EcF4b8ba2a77a7eC7eC823F21
